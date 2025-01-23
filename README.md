@@ -7,6 +7,7 @@ This repository showcase the Python-based projects that I developed during my in
 
 
 Task 1: Chatbot with Rule-Based Responses
+
 A simple chatbot that responds to user inputs based on some predefined rules.
 
 Features :  
